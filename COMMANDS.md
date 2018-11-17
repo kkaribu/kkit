@@ -1,6 +1,6 @@
 # Commands
 
-## modif <name>
+## modif \<name>
 
 Make sure the repository is checked out on a release branch or master.
 
