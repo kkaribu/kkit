@@ -29,3 +29,19 @@ Copy the tree and merge it in the parent branch.
 ```
 git read-tree -m -u <modif-branch>
 ```
+
+## sync
+
+Make sure the repository is check out on a modif branch.
+
+Determine its parent branch.
+
+Get the commit hash of the tip of the branch.
+
+Merge the commit into the modif branch.
+
+```
+git merge <commit-hash>
+```
+
+TODO How to handle conflicts?
