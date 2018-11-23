@@ -18,7 +18,7 @@ KKIT-<date>-<name>-COMMENTS.txt
 KKIT-<date>-<name>-MESSAGE.txt
 ```
 
-## apply
+## apply \<modif-branch>
 
 Read the necessary data from the modif files (the ones that start with *KKIT-*).
 
